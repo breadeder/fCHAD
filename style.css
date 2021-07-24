@@ -19,6 +19,7 @@ h1 {
 h3 {
    margin-top: 20px;
 }
+
 textarea {
    background: #fff !important;
    width: 100%;
@@ -64,3 +65,9 @@ textarea:focus {
 .output iframe::-webkit-scrollbar {
    display: none;
 }
+ 
+ .twitter {
+   width: 50%;
+  height: auto;	 
+ }
+ 
