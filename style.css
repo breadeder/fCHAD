@@ -99,10 +99,10 @@ nav li {
 nav a {
 	font-weight: 900;
 	text-decoration: none;
-	padding: 5em;
+	padding: 2em;
 	text-transform: uppercase;
 	color: white;
-	font-size: .8rem;
+	font-size: 1rem;
 	text-align: center; 
 
 }
@@ -117,7 +117,7 @@ nav a:focus {
 	top: 150px;
 	left: 5px;
 	max-width: 50%;
-    height: auto;
+    height: 50%;
     width: auto\9; /* ie8 */
 }
 
