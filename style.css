@@ -117,8 +117,8 @@ nav a:focus {
 	position: relative;
 	top: 175px;
 	left: 5px;
-	max-width: 75%;
-    height: 75%;
+	max-width: 40%;
+    height: 40%;
     width: auto\9; /* ie8 */
 }
 
