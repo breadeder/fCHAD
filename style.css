@@ -58,8 +58,8 @@ h3 {
 	color:white;
 	position: relative;
 	top: 230px;
-	padding-right:0px;
-	padding-left:0px;
+	padding-right:50px;
+	padding-left:50px;
 	
 }
 
@@ -178,7 +178,7 @@ nav a:focus {
 	top: 150px;
 	left: 160px;
 	max-width: 3%;
-    height: 3%;
+    max-height: 3%;
     width: auto\9; /* ie8 */
 }
 
@@ -187,7 +187,7 @@ nav a:focus {
 	top: 150px;
 	left: -160px;
 	max-width: 3%;
-    height: 3%;
+    max-height: 3%;
     width: auto\9; /* ie8 */
 }
 
