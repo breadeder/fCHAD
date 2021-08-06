@@ -66,6 +66,8 @@ h3 {
 }
 
 h4 {
+		text-align: center;
+
 	font-style: italic;
 	font-style: bold;
 	font-weight: bold;
@@ -80,6 +82,8 @@ h4 {
 }
 
 h5 {
+	text-align: center;
+
 	font-style: italic;
 	font-weight: bold;
 	font-size: 1.7rem;
